@@ -43,3 +43,17 @@
     align-items: center;
     
 }
+
+#social
+{
+    font-size: 30px;
+    margin-top: 20px;
+    letter-spacing: 8px;
+}
+
+#topsocial
+{
+    font-size: 30px;
+    letter-spacing: 8px;
+
+}
